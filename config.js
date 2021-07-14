@@ -5,7 +5,7 @@ const CONFIG = {
     title:Yêu nha
     desc:Nha🥺
     btnYes: 'Dạ Yêu Lun <3',
-    btnNo: 'Không, Anh trai à :3',
+    btnNo: 'Không, Anh Yêu',
     question:'Yêu ah nha',
     btnReply: 'Nói Yêu ah đi',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
