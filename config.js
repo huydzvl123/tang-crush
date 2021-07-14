@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'Em yêu à!',
     introDesc: 'Yêu anh nha'
     btnIntro: 'hihi',
-    title:Yêu nha
-    desc:Nha🥺
+    title: 'Yêu nha'
+    desc: 'Nha🥺'
     btnYes: 'Dạ Yêu Lun <3',
     btnNo: 'Không, Anh Yêu',
     question:'Yêu ah nha',
